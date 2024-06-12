@@ -1,4 +1,14 @@
-## Hi there 👋
+## Habe die Ehre!
+
+I'm currently doing my bachelors degree in artificial intelligence at the Deggendorf Institute of Technology.
+
+Currently I'm using
+- python 🐍
+- Java ☕
+- and much more :) but these are my favourites
+
+
+
 
 <!--
 **NickDastley/NickDastley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
